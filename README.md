@@ -79,6 +79,22 @@ If you like my work or want to collaborate, connect with me on **LinkedIn** or *
 </p>
 
 ---
+## 📂 My Project Gallery (Full Portfolio)
+
+Here is a comprehensive list of all my Data Engineering & Analysis projects.
+
+### 🗄️ Data Warehousing & Engineering
+| Project Name | Tech Stack | Description |
+| :--- | :--- | :--- |
+| [**HR Analytics DWH**](https://github.com/Mahmoud-Abd-Elhadi/SQL-DWH-PROJECT) | SQL Server, ETL, Star Schema | Full Data Warehouse creation including ETL and Data Modeling. |
+| [**End-to-End Bank Analytics**](https://github.com/Mahmoud-Abd-Elhadi/End-to-End-Bank-Analytics-SQL) | SQL, Power BI | Analyzing loan risks and financial trends using Bronze/Silver/Gold layers. |
+
+### 📊 Advanced SQL Analysis
+| Project Name | Tech Stack | Description |
+| :--- | :--- | :--- |
+| [**E-Commerce Sales Insights**](https://github.com/Mahmoud-Abd-Elhadi/E-Commerce-Sales-Customer-Insights-Analysis) | T-SQL, RFM Analysis | Customer segmentation, Churn Prediction, and Inventory Optimization. |
+| [**SQL Data Analysis Collection**](https://github.com/Mahmoud-Abd-Elhadi/sql-data-analysis-project) | T-SQL | Various analytical techniques: changes over time, cumulative analysis, etc. |
+| [**Advanced SQL Portfolio**](https://github.com/Mahmoud-Abd-Elhadi/SQL-Server-Advanced-Projects) | T-SQL, Stored Procedures | Sales trends analysis and complex data cleaning pipelines. |
 ### 📬 Contact & Connect
 I am currently open to opportunities as a Data Analyst or SQL Developer. Feel free to reach out!
 
